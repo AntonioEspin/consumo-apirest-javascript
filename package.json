@@ -1,0 +1,22 @@
+{
+  "name": "consumo-apirest-javascript",
+  "version": "1.0.0",
+  "description": "consumo api con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioEspin/consumo-apirest-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Antonio Espin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioEspin/consumo-apirest-javascript/issues"
+  },
+  "homepage": "https://github.com/AntonioEspin/consumo-apirest-javascript#readme"
+}

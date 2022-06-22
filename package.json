@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AntonioEspin/consumo-apirest-javascript/issues"
   },
-  "homepage": "https://github.com/AntonioEspin/consumo-apirest-javascript#readme"
+  "homepage": "https://github.com/AntonioEspin/consumo-apirest-javascript#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
